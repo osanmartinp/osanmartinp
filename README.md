@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-My stack
 <div style="display:flex; gap: 8px" >
-    <img src="./images/icons/javascript.png" alt="Javascript" width="40"/>
-    <img src="./images/icons/typescript.png" alt="Typescript" width="40"/>
+    <img src="./img/icons8-javascript-48.png" alt="Javascript" width="40"/>
+    <img src="./img/icons8-nodejs-48.png" alt="Typescript" width="40"/>
+    <img src="./img/icons8-java-100.png" alt="Typescript" width="40"/>
+    <img src="./img/icons8-angular-48.png" alt="Typescript" width="40"/>
+    <img src="./img/icons8-python-64.png" alt="Typescript" width="40"/>
+    <img src="./img/icons8-aws-48.png" alt="Typescript" width="40"/>
+    <img src="./img/icons8-google-cloud-48.png" alt="Typescript" width="40"/>
+
 </div>
 
 ## 😄 Let's talk?
